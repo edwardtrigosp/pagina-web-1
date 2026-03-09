@@ -1,0 +1,16 @@
+.menu ul li a {
+    color: #1e0f0f;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu ul li:hover {
+    background-color: blue;
+}
+.menu ul {
+    list-style: none;
+}
+.menu ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
