@@ -1,0 +1,30 @@
+.menu ul li a {
+    color: #1e0f0f;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu ul li:hover {
+    background-color: blue;
+}
+.menu ul {
+    list-style: none;
+}
+.menu ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+img {
+    height: 1020px;
+    width: 980px;
+}
+
+/* Video responsive */
+.video-player {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem 0;
+}
